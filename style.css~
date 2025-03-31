@@ -37,7 +37,7 @@ body * {
 #container {
   width: 100%;
   max-width: 588px;
-  margin: 56px auto 0 auto;
+  margin: 56px auto 0px auto;
   padding: 0 24px;
 }
 
@@ -126,7 +126,7 @@ ul li a {
 
 ul li a:hover {
   background: var(--surface-color-hover);
-  border: 2px solid var(--text-color);
+  border: 1.5px solid var(--text-color);
 }
 
 /* social-links */
